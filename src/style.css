@@ -1,0 +1,14 @@
+
+main.v-main {
+  background-color: #28688C;
+  box-shadow: 1px 5px 25px 3px #444;
+  border-radius: 0px;
+  width: 100vw;
+  padding: 5px;
+  color: white;  
+  height: 100vh;
+  overflow: hidden;
+  background: url('https://i.postimg.cc/2y8wPwX3/7cd57f8b757aea1e128f2f8f6b2c1983.gif') no-repeat;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
